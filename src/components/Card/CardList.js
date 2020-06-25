@@ -3,7 +3,7 @@ import Cards from './Cards';
 import IconSpinner from '../Fontawesome/IconSpinner';
 import axios from 'axios';
 
-const baseUrl = '/services/search/FindingService/v1?SERVICE-VERSION=1.13.0';
+const baseUrl = 'https://svcs.ebay.com/services/search/FindingService/v1?SERVICE-VERSION=1.13.0';
 const appID = '&SECURITY-APPNAME=NamwonHe-oldiethe-PRD-92eae7200-5104a421';
 const storeName = 'bummesasak_0';
 const findInStore = `&OPERATION-NAME=findItemsAdvanced&itemFilter(0).name=Seller&itemFilter(0).value=${storeName}`;
