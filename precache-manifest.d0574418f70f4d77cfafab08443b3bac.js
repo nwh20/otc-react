@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ce7689cff00c1f2ac6c33f9eb6aef26",
+    "revision": "fb5ab092692882727e070eefbce6e6c4",
     "url": "/otc-react/index.html"
   },
   {
-    "revision": "f0b1177b13f8645b6a22",
+    "revision": "6826b8bbeb7f80144a2b",
     "url": "/otc-react/static/css/main.339aec23.chunk.css"
   },
   {
-    "revision": "7b7702a53736d984d3c8",
-    "url": "/otc-react/static/js/2.fd41e704.chunk.js"
+    "revision": "2d12f97848bbe0f0d293",
+    "url": "/otc-react/static/js/2.da863767.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/otc-react/static/js/2.fd41e704.chunk.js.LICENSE.txt"
+    "url": "/otc-react/static/js/2.da863767.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f0b1177b13f8645b6a22",
-    "url": "/otc-react/static/js/main.34b6fde9.chunk.js"
+    "revision": "6826b8bbeb7f80144a2b",
+    "url": "/otc-react/static/js/main.e2aeae4f.chunk.js"
   },
   {
-    "revision": "9f98d03ce369ce293b76",
-    "url": "/otc-react/static/js/runtime-main.fa335277.js"
+    "revision": "95c294188a6a98bd982a",
+    "url": "/otc-react/static/js/runtime-main.bb1e7f5d.js"
   },
   {
     "revision": "33e667654149f62881dc68044b11e8f3",
