@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/otc-react/static/css/main.339aec23.chunk.css",
+    "main.js": "/otc-react/static/js/main.34b6fde9.chunk.js",
+    "main.js.map": "/otc-react/static/js/main.34b6fde9.chunk.js.map",
+    "runtime-main.js": "/otc-react/static/js/runtime-main.fa335277.js",
+    "runtime-main.js.map": "/otc-react/static/js/runtime-main.fa335277.js.map",
+    "static/js/2.fd41e704.chunk.js": "/otc-react/static/js/2.fd41e704.chunk.js",
+    "static/js/2.fd41e704.chunk.js.map": "/otc-react/static/js/2.fd41e704.chunk.js.map",
+    "index.html": "/otc-react/index.html",
+    "precache-manifest.c8327cb4a99fcc1a21fe14736c17a587.js": "/otc-react/precache-manifest.c8327cb4a99fcc1a21fe14736c17a587.js",
+    "service-worker.js": "/otc-react/service-worker.js",
+    "static/css/main.339aec23.chunk.css.map": "/otc-react/static/css/main.339aec23.chunk.css.map",
+    "static/js/2.fd41e704.chunk.js.LICENSE.txt": "/otc-react/static/js/2.fd41e704.chunk.js.LICENSE.txt",
+    "static/media/about.jpg": "/otc-react/static/media/about.33e66765.jpg",
+    "static/media/grid1.png": "/otc-react/static/media/grid1.4ccf5c50.png",
+    "static/media/grid2.png": "/otc-react/static/media/grid2.595d83e1.png",
+    "static/media/grid3.png": "/otc-react/static/media/grid3.488b9d43.png",
+    "static/media/grid4.png": "/otc-react/static/media/grid4.a1fc3c1b.png",
+    "static/media/main-left.png": "/otc-react/static/media/main-left.b2488810.png",
+    "static/media/main-right.png": "/otc-react/static/media/main-right.fe274b3e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa335277.js",
+    "static/js/2.fd41e704.chunk.js",
+    "static/css/main.339aec23.chunk.css",
+    "static/js/main.34b6fde9.chunk.js"
+  ]
+}
