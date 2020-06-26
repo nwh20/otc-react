@@ -8,7 +8,7 @@ class App extends Component {
 
         return (
             <div className="App">
-                <BrowserRouter basename={process.env.PUBLIC_URL}>
+                <BrowserRouter>
                     <Nav />
                     <Route exact path="/" component={Home} />
                     <Route exact path="/about" component={About} />

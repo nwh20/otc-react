@@ -10,6 +10,6 @@ To create a virtual ebay seller 'oldie the camera', this site is connected to th
 Test the Board, here is temporary password for admin, 1234.
 
 ### Demo
-https://nwh20.github.io/otc-react/
+https://otc-react.herokuapp.com/
 
 **thanks!**
