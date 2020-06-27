@@ -10,7 +10,7 @@ const StyledTyping = styled.h3`
     white-space:nowrap;
     overflow:hidden;
     border-right: 5px solid rgb(95, 95, 95);
-    animation: typing 3s .7s steps(30, end), blinking 1s step-end infinite;
+    animation: typing 3s .3s steps(30, end), blinking 1s step-end infinite;
     
     @keyframes typing {
         from { 
