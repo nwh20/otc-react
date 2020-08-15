@@ -34,7 +34,7 @@ class CardList extends Component {
         }
 
         axios.get(url)
-            .then( result => {
+            .then(result => {
                 if (result.data.findItemsAdvancedResponse[0].searchResult[0].item) {
                   let items = result.data.findItemsAdvancedResponse[0].searchResult[0].item;
                   this.insertItems(items);
