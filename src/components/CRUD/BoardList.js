@@ -1,7 +1,6 @@
 import React from 'react'
 
 const BoardList = (props) => {
-    
     return (
         <table>
             <thead>

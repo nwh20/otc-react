@@ -11,13 +11,9 @@ const StyledIcon = styled(FontAwesomeIcon)`
 `;
 
 const IconInsta = () => {
-
-    const goInsta = () => {
-        // 추후에 연결
-    }
-
     return (
-        <StyledIcon icon={faInstagram} onClick={goInsta} />
-    )
+        <StyledIcon icon={faInstagram} />
+    );
 }
+
 export default IconInsta;

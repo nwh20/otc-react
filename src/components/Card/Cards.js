@@ -1,9 +1,9 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 
 const Cards = (props) => {
     let itemURL = props.item.viewItemURL;
     let price = props.item.sellingStatus[0].currentPrice[0]['__value__'];
-
+    
     if (/\.\d$/.test(price)) price -= '0';
     
     const toPage = (props) => {
